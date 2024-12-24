@@ -54,3 +54,22 @@
 - [Future tasks]
 - [Upcoming features]
 - [Things to research]
+
+## Personality Insights
+### Enneagram Type 7 - The Enthusiast
+- Values: Freedom, excitement, new possibilities
+- Learning Style: 
+  - Prefers exploring multiple options
+  - Enjoys starting new projects
+  - Learns through enthusiasm and engagement
+  - May need help staying focused on completion
+- Communication Preferences:
+  - Responds well to positive framing
+  - Appreciates quick, efficient solutions
+  - Enjoys discussing future possibilities
+  - Benefits from gentle reminders to complete current tasks
+- Support Strategies:
+  - Keep energy high but focused
+  - Celebrate small wins
+  - Break large tasks into engaging chunks
+  - Balance exploration with completion
